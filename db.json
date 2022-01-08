@@ -3,7 +3,7 @@
     {
       "city" : "los angeles",
       "state" : "united state",
-      "continents" : "nord america",
+      "continents" : "north america",
       "thumb" : "https://images.wallpapersden.com/image/download/los-angeles_a2xpZWeUmZqaraWkpJRmZ21lrWxnZQ.jpg",
       "things_to_do" : [
         {
@@ -21,7 +21,7 @@
     {
       "city" : "chicago",
       "state" : "united state",
-      "continents" : "nord america",
+      "continents" : "north america",
       "thumb" : "https://www.visittheusa.com/sites/default/files/styles/hero_l/public/images/hero_media_image/2018-05/2af94a274ebf7f6716f9b2068595581c.jpeg?h=a98222f4&itok=o5jaY4kH",
       "things_to_do" : [
         {
@@ -39,7 +39,7 @@
     {
       "city" : "moscow",
       "state" : "russia",
-      "continents" : "europa",
+      "continents" : "europe",
       "thumb" : "https://uhdwallpapers.org/uploads/converted/18/05/10/red-square-moscow-1280x720_95695-mm-90.jpg",
       "things_to_do" : [
         {
@@ -57,7 +57,7 @@
     {
       "city" : "madrid",
       "state" : "spain",
-      "continents" : "europa",
+      "continents" : "europe",
       "thumb" : "https://www.fleetmagazine.com/wp-content/uploads/2021/11/Madrid-Geotab-1280x720.jpg",
       "things_to_do" : [
         {
@@ -75,7 +75,7 @@
     {
       "city" : "rome",
       "state" : "italy",
-      "continents" : "europa",
+      "continents" : "europe",
       "thumb" : "https://worldstrides.com/wp-content/uploads/2015/07/api113-1280x720.jpg",
       "things_to_do" : [
         {
