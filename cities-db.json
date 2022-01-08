@@ -1,0 +1,94 @@
+{
+  "cities": [
+    {
+      "city" : "Los Angeles",
+      "state" : "United State",
+      "continents" : "Nord America",
+      "thumb" : "https://images.wallpapersden.com/image/download/los-angeles_a2xpZWeUmZqaraWkpJRmZ21lrWxnZQ.jpg",
+      "things_to_do" : [
+        {
+          "name" : "Warner Bros Studio Tour",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2020/02/t6eg2x.jpg",
+          "description" : "The Warner Bros. Studio complex is one of the most bustling and exciting odes to old and new Hollywood. Get access to famous sound stages, interactive exhibits and the locations of some of your favorite films and TV shows. The two-hour tour includes a stop at Central Perk from Friends, the DC Universe: The Exhibit and an in-depth look at Batmobiles throughout the years. To get an insider’s insight into the world of Warner Bros, you can take our specially curated Art Tour of LA which includes a street mural tour led by a Warner Bros artist."
+        },
+        {
+          "name" : "Peterson Automotive Museum",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2020/02/gettyimages-534572466.jpg",
+          "description" : "Speaking of cars, the Petersen Automotive Museum is ground zero for motor enthusiasts of all ages. There are rotating exhibits that ensure no two trips will be the same, and there are numerous events to keep your interests piqued behind the wheel. One of the most interesting parts of the museum is The Vault, where an extra 250 rare and unique cars are on display."
+        }
+      ]
+    },
+    {
+      "city" : "Chicago",
+      "state" : "United State",
+      "continents" : "Nord America",
+      "thumb" : "https://www.visittheusa.com/sites/default/files/styles/hero_l/public/images/hero_media_image/2018-05/2af94a274ebf7f6716f9b2068595581c.jpeg?h=a98222f4&itok=o5jaY4kH",
+      "things_to_do" : [
+        {
+          "name" : "Art Institute of Chicago",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2019/05/dyxjnp.jpg",
+          "description" : "The Warner Bros. Studio complex is one of the most bustling and exciting odes to old and new Hollywood. Get access to famous sound stages, interactive exhibits and the locations of some of your favorite films and TV shows. The two-hour tour includes a stop at Central Perk from Friends, the DC Universe: The Exhibit and an in-depth look at Batmobiles throughout the years. To get an insider’s insight into the world of Warner Bros, you can take our specially curated Art Tour of LA which includes a street mural tour led by a Warner Bros artist."
+        },
+        {
+          "name" : "Shedd Aquarium",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2019/06/t2eay7.jpg",
+          "description" : "The Shedd Aquarium is home to approximately 32,000 animals, including sea otters, sharks, frogs, penguins and beluga whales, not to mention a multitude of different fish and coral species. The aquarium is divided into different geographical exhibits and offers a comprehensive daily schedule that includes spotlight sessions on various species, live dives and feedings, along with look-and-learn experiences. With so many activities and programming, this is easily a full-day excursion. Buying tickets in advance is strongly recommended."
+        }
+      ]
+    },
+    {
+      "city" : "Moscow",
+      "state" : "Russia",
+      "continents" : "Europa",
+      "thumb" : "https://uhdwallpapers.org/uploads/converted/18/05/10/red-square-moscow-1280x720_95695-mm-90.jpg",
+      "things_to_do" : [
+        {
+          "name" : "St Basil's Cathedral",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2021/03/en4xn8.jpg",
+          "description" : "However long you’re visiting Moscow for, you must set aside some time to soak up the archetypal image of Russia’s capital with the glistening rainbow roofs of St Basil’s Cathedral. The onion-shaped domes were designed to make the building look like flames on a bonfire. The cathedral was commissioned in the 1500s by Ivan the Terrible and according to legend, the Tsar thought it so beautiful he ordered that the architect be blinded so they would never surpass this creation."
+        },
+        {
+          "name" : "Lenin's Mausoleum",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2020/02/gettyimages-534572466.jpg",
+          "description" : "The love-it-or-hate-it of Russia attractions, Lenin’s Mausoleum houses a glass sarcophagus containing the embalmed body of the legendary Russian revolutionary, Vladimir Lenin. First opened to the public in August 1924, the Mausoleum attracts around 2.5m visitors a year, who presumably don’t mind queueing and going through a thorough search to enter Lenin’s presence."
+        }
+      ]
+    },
+    {
+      "city" : "Madrid",
+      "state" : "Spain",
+      "continents" : "Europa",
+      "thumb" : "https://www.fleetmagazine.com/wp-content/uploads/2021/11/Madrid-Geotab-1280x720.jpg",
+      "things_to_do" : [
+        {
+          "name" : "Plaza Mayor",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2020/04/gettyimages-678934868-1.jpg",
+          "description" : "Madrid’s main square holds centuries of history in its cobbles, and has been the scene of everything from coronations to bullfights and beheadings. These days it’s a nice place in which to stroll and sample one of the city’s famed foods: bocadillo de calamares (a calamari sandwich) from one of the bars surrounding the square."
+        },
+        {
+          "name" : "Royal Palace of Madrid",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2020/04/gettyimages-497855858.jpg",
+          "description" : "The official residence of Spain’s royal family is these days used for official ceremonies only (King Felipe and Queen Letizia live in the more modest Zarzuela Palace just outside Madrid). Members of the public can visit the palace and check out centuries worth of paintings, furniture and armour."
+        }
+      ]
+    },
+    {
+      "city" : "Rome",
+      "state" : "Italy",
+      "continents" : "Europa",
+      "thumb" : "https://worldstrides.com/wp-content/uploads/2015/07/api113-1280x720.jpg",
+      "things_to_do" : [
+        {
+          "name" : "Colosseum",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2020/02/gettyimages-707587719.jpg",
+          "description" : "The most famous sight in all of Rome is its ancient gladiatorial arena, the Colosseum. Also known as the Flavian Amphitheatre, the 2,000-year-old structure once held up to 50,000 spectators. As the site of epic gladiator battles, roaring crowds and jeering emperors, the historic atmosphere of this bloody arena is palpable. No trip to the capital would be complete without visiting it to discover what life might have been like in ancient Rome."
+        },
+        {
+          "name" : "Trajan’s Markets",
+          "thumb_to_do": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2020/02/gettyimages-1136420253.jpg",
+          "description" : "Trajan’s Markets is a remarkable complex of ancient stores, administrative offices and alleyways that dates back to around 110CE. While historians debate whether or not it was actually a market, there’s no doubting that the covered area was the model for today’s shopping malls. Constructed by Emperor Trajan, one of Rome’s most industrious rulers, the ancient alleyways and multi-level offices at the complex give visitors a chance to step into the everyday life of ancient Romans. This tour also grants access to the onsite Imperial Forum Museum."
+        }
+      ]
+    }
+  ]
+}
